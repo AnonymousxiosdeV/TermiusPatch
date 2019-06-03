@@ -1,0 +1,9 @@
+Package: com.anonymousx.TermiusPatch
+Name: Termius Patch
+Author: anonymousx
+Description: 
+Depends: mobilesubstrate
+Maintainer: anonymousx
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
